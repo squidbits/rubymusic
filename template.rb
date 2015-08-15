@@ -2,9 +2,10 @@
 use_synth :tb303
 use_bpm 145
 #
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-# A basic song outline. You can feed it riffs, fills, whatever you want.
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+##################################################
+#      A basic song template for Sonic Pi.
+# You can feed it riffs, fills, whatever you want.
+##################################################
 #
 # Outline the song structure
 #
